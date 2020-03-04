@@ -6,6 +6,13 @@
   align-items: center;
   background: #ffffff;
 }
+.search-form-wrapper{
+  width: 200px;
+  height: 50px;
+  padding-left: 90px;
+  display: flex;
+  place-items: center;
+}
 .search-form {
   width: 150px;
   font-size: 14px;
@@ -21,6 +28,10 @@
 .logo-image {
   height: 100%;
 }
+/* .search-bar-logo{
+  width: 100px;
+  height: 50px;
+} */
 
 .social-wrapper {
   display: flex;
@@ -28,4 +39,5 @@
 
 .social {
   width: 50px;
+  font-size: 30px;
 }
