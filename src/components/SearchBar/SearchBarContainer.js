@@ -8,9 +8,9 @@ const SearchBar = () => {
       <div className="image-wrapper">
         <i className="fab fa-instagram" />
       </div>
-      <div className="search-bar-logo">
+      {/* <div className="search-bar-logo">
       <image src={require('./insta-logo.png')} alt="instagram logo" />
-      </div>
+      </div> */}
       < div className="search-form-wrapper">
       <form className="search-form">
         <input
